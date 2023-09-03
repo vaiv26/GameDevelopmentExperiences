@@ -13,7 +13,7 @@ In this company, I had the privilege of working on multiple projects and release
 
 ## Highlights
 In a team of 10 ( Designers, Animators, 3D-Artists, 3D-Modellers and Testers, Programmers ) released our games on google Play Store
-1. [Sunbeach Casino](https://onerostech.com/games/sunbeach-casino/)
-2. [Roulette](https://onerostech.com/games/roulette/)
-3. [Sic Bo](https://onerostech.com/games/sicbo/)
-4. [Connect 4](https://onerostech.com/games/connect-4/)
+1. [Sunbeach Casino](https://onerostech.com/games/sunbeach-casino/) Game Trailer
+2. [Roulette](https://onerostech.com/games/roulette/) Game Trailer
+3. [Sic Bo](https://onerostech.com/games/sicbo/) Game Trailer
+4. [Connect 4](https://onerostech.com/games/connect-4/) Game Trailer
