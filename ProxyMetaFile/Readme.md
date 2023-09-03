@@ -10,5 +10,5 @@ In this company, I had the privilege of developing a first-person shooter (FPS) 
 * In addition to working on general gameplay and lag compensation I also used AI player Assists for Player Immersiveness.
 
 ## Highlight
-In a team of 10 ( Designers, Animators, 3D-Artists, 3D-Modellers and Story Writers, Programmers ) showcased our game in Georgia Conference and successfully crossed Alpha Testing Phase.
-[Meta Nemesis Game Trailer](https://www.youtube.com/watch?v=n9D2VofOd8c)
+In a team of 10 ( Designers, Animators, 3D-Artists, 3D-Modellers and Story Writers, Programmers ) showcased our game in Georgia Conference and successfully passed the Alpha Testing Phase.
+### [Meta Nemesis Game Trailer](https://www.youtube.com/watch?v=n9D2VofOd8c)
