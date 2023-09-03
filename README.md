@@ -1,5 +1,5 @@
 # Proxy Meta Experiences
-## About the Game: [Meta Nemesis](https://store.epicgames.com/en-US/p/meta-nemesis-0b3428)
+## About the Game: [Meta Nemesis](https://store.epicgames.com/en-US/p/meta-nemesis-0b3428) (C++/ C#/ Python/ Unreal Engine)
 Meta Nemesis is a competitive fantasy tactical shooter with blockchain technology, making it a unique first-person shooter. Customize your core set of abilities to play exactly how you want to, as you battle fierce enemies and other players in exciting 5v5 matches.
 
 ## Responsibilities
