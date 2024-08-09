@@ -1,19 +1,13 @@
-# Onerous Tech Experiences
-## About: [Onerous Tech](https://onerostech.com/) (C++/ C#/ Python/ Unity Game Engine/ AWS/ Web Sockets/ REST-API)
-Onrous Tech company initially started as a game development company and as time passed it has enhanced its features and services, thus moving into different domains starting from software, tool appilication as well as tailoring mobile, PC and Web applications to their clientele .
+# [Moonboi Studios](https://moonboiuniverse.com/)
+## About:
+Moonboi studios is game development which uses Unity game engine to develop its studio title Moonboi Universe company. It is a top-down pixel role playing game. The game is Web2 and Web3 enabled.
 
 ## Responsibilities
-In this company, I had the privilege of working on multiple projects and released all of them for Android and IOS mobile platforms. Some tasks include:
-* Coded new and existing systems in C# and Unity Game Engine to meet the intent of the game’s design.
+In this company, I had the privilege of working as Unity Developer on multiple levels which was later for Android, IOS, Solana Mobile, WebGl. Some tasks include:
+* Collaborated within a team of 10, comprising of environment artists, script writers, sound designer and other developers.
 * Worked on existing code base to keep code changes coherent with existing code.
-* Developed gameplay tools for large content teams.
-* Implemented AI NPC Characters for using behaviour trees, states and goals.
-* Integrated 3rd party libraries for multiplayer chatting systems among player
-* Identified and improved gameplay using memory optimization technique
+* Developed gameplay tools for fishing, Inventory system, progress saving system and with the help of the Magic blocks SDK, coded assets for Onchain trasactions.
+* Collaborated with other developers to develop the multiplayer system using Photon PUN to develop a strategic card game.
 
 ## Highlights
-In a team of 10 ( Designers, Animators, 3D-Artists, 3D-Modellers and Testers, Programmers ) released our games on google Play Store
-1. [Sunbeach Casino](https://onerostech.com/games/sunbeach-casino/) Game Trailer
-2. [Roulette](https://onerostech.com/games/roulette/) Game Trailer
-3. [Sic Bo](https://onerostech.com/games/sicbo/) Game Trailer
-4. [Connect 4](https://onerostech.com/games/connect-4/) Game Trailer
+1. [Moonboi Universe](https://moon-boi-studios.github.io/mbubonkfish/)
