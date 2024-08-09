@@ -1,19 +1,19 @@
-# Onerous Tech Experiences
-## About: [Onerous Tech](https://onerostech.com/) (C++/ C#/ Python/ Unity Game Engine/ AWS/ Web Sockets/ REST-API)
-Onrous Tech company initially started as a game development company and as time passed it has enhanced its features and services, thus moving into different domains starting from software, tool appilication as well as tailoring mobile, PC and Web applications to their clientele .
+# [GeoTech](https://www.linkedin.com/company/geotech-bv/)
+## About: GeoTech 
+GeoTech creates tools for the Media and Entertainment industry. The companie's services range from extending the Unreal Engine and other content creation tools, to bespoke, standalone solutions. 
+For, one their prototype game which was a high speed rail shooter inspired by [ExZodiac](https://www.youtube.com/watch?v=Mf57FFkyT8Q) I was hired for a period of 3 months as a Freelance Unreal Engine Game Developer through [Upwork](https://www.upwork.com/). Our team consisted of three extreamly talanted people.
+1. [Chris Venturini](https://www.linkedin.com/in/chrismventurini/)
+2. [Dennis Dubinin](https://www.linkedin.com/in/ddubinin/)
+3. [Tsotne Pavliashvili](https://www.linkedin.com/in/tsotne-pavliashvili-647b21201/)
 
-## Responsibilities
-In this company, I had the privilege of working on multiple projects and released all of them for Android and IOS mobile platforms. Some tasks include:
-* Coded new and existing systems in C# and Unity Game Engine to meet the intent of the game’s design.
+## Responsibilities 
+In this company, I had the privilege of working on a single project using Unreal Engine 5 blueprints and c++ programming language. Some tasks include:
+* Coded enemy systems for the game and made different types of enemies with different attack abilities with different weapons
 * Worked on existing code base to keep code changes coherent with existing code.
-* Developed gameplay tools for large content teams.
-* Implemented AI NPC Characters for using behaviour trees, states and goals.
-* Integrated 3rd party libraries for multiplayer chatting systems among player
-* Identified and improved gameplay using memory optimization technique
+* Used projecile system for missiles and added predictive positioning to guide missiles to hit the player.
+* Used Raycast was lasers attacks by the enemies.
+* Designed and developed a boss enemy with multiple abilities 
+* Used decision tree for the boss level to manipulate boss enemy attack strategies according to the players health
 
 ## Highlights
-In a team of 10 ( Designers, Animators, 3D-Artists, 3D-Modellers and Testers, Programmers ) released our games on google Play Store
-1. [Sunbeach Casino](https://onerostech.com/games/sunbeach-casino/) Game Trailer
-2. [Roulette](https://onerostech.com/games/roulette/) Game Trailer
-3. [Sic Bo](https://onerostech.com/games/sicbo/) Game Trailer
-4. [Connect 4](https://onerostech.com/games/connect-4/) Game Trailer
+1. [Development Video](https://onerostech.com/games/connect-4/)
