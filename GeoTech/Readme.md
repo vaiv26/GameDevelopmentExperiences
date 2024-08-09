@@ -16,4 +16,4 @@ In this company, I had the privilege of working on a single project using Unreal
 * Used decision tree for the boss level to manipulate boss enemy attack strategies according to the players health
 
 ## Highlights
-1. [Development Video](https://onerostech.com/games/connect-4/)
+1. [Development Game Video](https://drive.google.com/file/d/1xhSLy2Ffu2BHoUIW4SuT5t9jMoZJrsGQ/view?usp=sharing)
