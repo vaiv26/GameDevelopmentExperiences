@@ -1,4 +1,4 @@
-# Tower Defence game using OpenGL 
+#   Tower Defence game using OpenGL 
 
 * Developed a simulation of Pathfinding algorithm A-star using C++ and rendering API as Open GL
 * Tower Defense is a 2-D game which is based on a pathfinding algorithm A*.
