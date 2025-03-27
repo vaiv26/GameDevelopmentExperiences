@@ -1,4 +1,4 @@
-# Knives #
+# Knives 
 
 - Project Description - Developed a personal 2D game project in C# (visual studio) using the Unity game engine.
 
